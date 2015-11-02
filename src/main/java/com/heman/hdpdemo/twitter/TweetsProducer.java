@@ -22,10 +22,10 @@ import java.util.concurrent.TimeUnit;
 
 public class TweetsProducer {
 
-    private static final String CONSUMER_KEY = "bmkeeuiLqGZzBukxcPCMqUQjn";
-    private static final String CONSUMER_SECRET = "Fkw9jQYPG8VT6skSOGmMk34DdVzWpolUcgofTgROvb4vAndmL3";
-    private static final String ACCESS_TOKEN = "87054086-KMyQNo0A7f25LkLIAW6eX5zg0q1GPZiPved85Wvig";
-    private static final String ACCESS_TOKEN_SECRET = "1HoHd1E7V2aJXH6m3mNO5dRLi7RJAnEsVddsG3ioTgLkf";
+    private static final String CONSUMER_KEY = "xxxx";
+    private static final String CONSUMER_SECRET = "xxxx";
+    private static final String ACCESS_TOKEN = "xxxx";
+    private static final String ACCESS_TOKEN_SECRET = "xxxx";
 
     private static String KAFKA_BROKER_LIST;
     private static String KAFKA_TOPIC;
